@@ -30,7 +30,7 @@ This Go program calculates the ideal body weight based on gender and height usin
    Masukkan gender : laki laki
    Masukkan height : 175
 
-2. The program will then calculate and display your ideal weight based on the formula for the specified gender.
+3. The program will then calculate and display your ideal weight based on the formula for the specified gender.
 
    67.5
 ------------------------------------------------------------------------------------------------------------------------
